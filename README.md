@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/kaveeshagim/blog-preview-card](https://github.com/kaveeshagim/blog-preview-card)
+- Live Site URL: [https://kaveeshagim.github.io/blog-preview-card/](https://kaveeshagim.github.io/blog-preview-card/)
 
 ## My process
 
@@ -44,28 +44,13 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+I learned how to use max height and width properties and how to use them. Using the gap property to space all the elements inside a component is an easy way to place all the different divs inside the main div
+Also, referring the figma design helps immensely to write the perfect CSS. Visualizing the idea through a figma design is a crucial part before getting into the coding phase.
 
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+I want to focus more on using the flexbox properties.
 
 
 ## Author
